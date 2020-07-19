@@ -1,0 +1,26 @@
+
+slot_tag
+ad_account
+dsp_adx_id
+dsp_slot_id
+dsp_media_id
+dsp_publish_id
+dsp_group_id
+dsp_campaign_id
+dsp_creative_group_id
+dsp_agent_id
+dsp_oem_id
+
+slot_tag
+ad_account
+dsp_adx_id
+dsp_slot_id
+dsp_media_id
+dsp_publish_id
+dsp_ad_id //已传
+dsp_group_id
+dsp_campaign_id
+dsp_creative_group_id
+dsp_track_id //以传
+dsp_agent_id
+dsp_oem_id

@@ -1,0 +1,10 @@
+syntax = "proto3";
+message interactive_fb {
+  string plat_id = 1;
+  string media_id = 2;
+  string ad_slot_id = 3;
+  string template_id = 4;
+  string plan_id = 5;
+  string award_id = 6;
+  string advertise_id = 7;
+}
